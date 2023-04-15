@@ -1,0 +1,29 @@
+.btnn{
+  width: 300px;
+  padding: 10px 20px;
+  font-size: 24px;
+  background: lightcoral;
+  border: none;
+  color: white;
+  border-radius: 10px;
+}
+
+.container{
+  width: 80%;
+  margin: 0 auto;
+  font-family: sans-serif;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 30px;
+}
+
+.name{
+  font-size: 27px;
+  text-align: center;
+}
+
+.card{
+  padding: 10px 20px;
+  /* width: 20%; */
+  border: 1px solid black;
+}
